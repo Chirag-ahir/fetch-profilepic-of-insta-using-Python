@@ -1,4 +1,4 @@
------------pip install instaloader----------
+e-----------pip install instaloader----------
 import instaloader()
 data=instaloader.Instaloader()
 name=input("enter your profilename:")
